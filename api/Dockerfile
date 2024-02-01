@@ -1,6 +1,6 @@
-USER root
-
 FROM openjdk:17
+
+USER root
 
 WORKDIR /app
 
